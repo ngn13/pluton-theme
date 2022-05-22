@@ -1,0 +1,21 @@
+{
+    "name": "pluton-theme",
+    "displayName": "Pluton",
+    "description": "A synthwave style VSC theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pluton",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pluton Theme-color-theme.json"
+            }
+        ]
+    }
+}
